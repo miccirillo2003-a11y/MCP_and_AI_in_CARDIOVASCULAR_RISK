@@ -10,4 +10,4 @@ From a technical perspective, the system integrates data preprocessing pipelines
 Overall, the project demonstrates how artificial intelligence techniques can be effectively applied in healthcare contexts, highlighting the importance of interdisciplinary collaboration between data scientists and medical professionals.
 
 Here is the link to see what the AI ​​has processed with the UCI dataset:
-https://claude.ai/public/artifacts/5a4b4d18-06dc-4a17-b27c-c334bb12713c
+\n https://claude.ai/public/artifacts/5a4b4d18-06dc-4a17-b27c-c334bb12713c
